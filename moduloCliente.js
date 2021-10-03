@@ -1,0 +1,1 @@
+const moduloA = require('./moduloA')
